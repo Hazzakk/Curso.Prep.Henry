@@ -1,0 +1,13 @@
+Variables: En Javascript una Variable es una forma de darle un valor a una palabra.
+
+Strings: Las strings son palabras, siempre van entre comillas.
+
+Funciones: Nos permite ejecutar codigos y reusarlos cuantas veces querramos.
+
+Argumento: En los Argumentos podemos darle a nuestra funcion Variables para que las utilice.
+
+Return: Al hacer la declaración return la funcion nos devuelve lo que le pidamos, esta es la unica forma de acceder a los datos dentro de la funcion.
+
+If: Es una forma para comparar o verificar si algo es cierto o no.
+
+Booleanos: Los booleanos en JavaScript se usan para definir si algo es verdadero o falso.
