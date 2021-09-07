@@ -1,0 +1,1 @@
+Array: Los arrays son contenedores de datos de cualquier tipo, como strings, numbers, functions, undefined, null e incluso otros arrays.
