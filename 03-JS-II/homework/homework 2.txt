@@ -1,0 +1,7 @@
+Bucle for: El bucle for nos permite ejecutar codigos de forma repetitiva. Para usar for debemos declarar una variable sobre la cual se repetira en bucle, luego una expresion condicional, la cual sera la condicion de detencion del bucle y por ultimo el operador.
+
+Operador logico && (AND): Este operador logico evaluara dos expresiones para comprobar su veracidad, y unicamente devolvera TRUE si ambas expresiones son verdaderas. En caso de que una o ambas expresiones sean falsas devolvera FALSE.
+
+Operador logico || (OR): El operador logico "OR" devolvera FALSE unicamente cuando ambas expresiones sean falsas. En caso de que una o ambas expresiones sean verdaderas, devolvera TRUE.
+
+Operador logico ! (NOT): Este operador logico devolvera el valor booleano opuesto de lo que se le pasa. Para saber el verdadero valor booleano se usa !!.
